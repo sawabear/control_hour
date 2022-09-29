@@ -7,7 +7,7 @@ Several company can consump less energies value in specific hour. This specific 
 As a result if we know number of CH we can decrease our consump and pay less for power at this day.
 
 # Use
-tensorflow
-catboost
-pandas
-a little bit of SQL
+1. tensorflow
+2. catboost
+3. pandas
+4. a little bit of SQL
